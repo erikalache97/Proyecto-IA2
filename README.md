@@ -2,7 +2,7 @@
 
 **TITULO**: 
 
-**Descripción:** 
+**Descripción:** Sistema de predicción de enfermedades en la hoja de tomate.
 
 **Imagen:** 
 
@@ -10,9 +10,9 @@
 
 **Autor:** Erika Yamile Lache Blanco - 2140348, Dairon Alexis Vallejo Vallejo - 2171996
 
-**Objetivo**: Predecir correctamente el .
+**Objetivo**: Predecir correctamente la enfermedad que posee la planta por medio de una red neuronal.
 
-**Dataset:** 
+**Dataset:** https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf
 
 **Modelos:** 
 
