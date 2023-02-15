@@ -13,6 +13,7 @@
 **Objetivo**: Clasificar el tipo de enfermedad que puede sufrir la planta de tomate usando modelos de Deep learning a partir de características captadas por medio de las hojas de los tomates.
 
 **Dataset:** https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf
+Se utilizo una dataset que contiene 11000 imágenes, las cuales se dividieron en 80% train y 20% valid.
 
 **Modelos:** MobileNet V2 - VGG16
 
@@ -21,6 +22,3 @@
 2. video: 
 3. repositorio: https://github.com/erikalache97/Proyecto-IA2
 
-
-
-https://github.com/erikalache97/Proyecto-IA2/blob/main/Banner-IA2.png
