@@ -20,3 +20,7 @@
 1. código: 
 2. video: 
 3. repositorio: https://github.com/erikalache97/Proyecto-IA2
+
+
+
+https://github.com/erikalache97/Proyecto-IA2/blob/main/Banner-IA2.png
