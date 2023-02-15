@@ -6,7 +6,7 @@
 
 **Imagen:** 
 [![Banner-IA2.png](https://i.postimg.cc/6Q6NfqRp/Banner-IA2.png)](https://postimg.cc/VJhTYYDx)
-[![Banner-IA2.png](https://i.postimg.cc/0QvmYvzr/Banner-IA2.png)](https://postimg.cc/94xr2vtj)
+
 
 **Autor:** Erika Yamile Lache Blanco - 2140348, Dairon Alexis Vallejo Vallejo - 2171996
 
