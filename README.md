@@ -21,6 +21,6 @@ Se utilizo una dataset que contiene 11000 imágenes, las cuales se dividieron en
 1. código: 
    https://github.com/erikalache97/Proyecto-IA2/blob/main/MobileNet.ipynb
    
-2. video: 
+2. video: https://youtu.be/qbtBTRR-TT4
 3. repositorio: https://github.com/erikalache97/Proyecto-IA2
 
